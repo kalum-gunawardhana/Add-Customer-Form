@@ -1,0 +1,5 @@
+String customerName;
+String customerAddress;
+int customerAge;
+double customerSalary;
+String lastName;
